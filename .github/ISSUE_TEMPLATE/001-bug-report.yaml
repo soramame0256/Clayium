@@ -7,7 +7,7 @@ body:
     attributes:
       label: Mod Version
       description: |
-        The version of Clayium Unofficial you were using when this bug was encountered. If you do not know where to find this, look for the mod jar file in the mods folder, or in the mods viewer in-game.
+        The version of Clayium Unofficial you were using when this bug was encountered. If you do not know where to find this, look for the mod jar file in the mods folder, or in the mods viewer in-game.<br>
         バグに遭遇したときに利用していたClayium Unofficialのバージョンを入力してください。modsフォルダの中にあるModのjarファイルや、ゲーム内の「Mods」から確認できます。
       placeholder: "vX.Y.Z"
     validations:
